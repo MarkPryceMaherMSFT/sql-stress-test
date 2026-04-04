@@ -1,0 +1,949 @@
+2026-04-03 19:43:42,801 | Worker 1 started
+2026-04-03 19:43:42,801 | Started 1 worker(s) across 1 server(s)
+2026-04-03 19:43:46,465 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:47,076 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:47,883 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:48,383 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:48,824 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:48,907 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:48,991 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,112 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,194 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,282 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,361 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,444 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,526 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,610 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,691 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,773 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,854 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:49,933 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:50,016 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:50,121 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:50,559 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:50,909 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:50,993 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,073 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,152 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,243 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,323 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,405 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,495 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,599 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,678 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,756 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,849 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:51,929 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,012 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,144 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,259 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,376 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,491 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,602 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,701 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,780 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,862 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:52,941 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,020 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,100 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,185 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,266 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,344 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,426 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,507 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,589 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,669 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,750 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,831 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,915 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:53,996 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,102 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,209 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,297 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,379 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,459 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,546 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,628 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,718 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,799 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,879 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:54,959 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,042 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,121 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,201 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,285 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,366 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,452 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,538 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,615 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,695 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,784 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,872 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:55,953 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,040 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,130 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,236 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,328 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,436 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,518 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,597 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,680 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,767 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,857 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:56,937 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,019 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,116 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,223 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,335 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,439 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,542 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,639 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,721 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,804 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,883 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:57,963 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,043 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,125 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,229 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,317 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,465 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,544 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,643 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,722 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,805 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,897 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:58,994 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,094 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,220 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,333 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,452 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,558 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,675 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,769 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,867 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:43:59,960 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:44:00,049 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:44:00,059 | Stopping all workers …
+2026-04-03 19:44:00,128 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-03 19:44:00,128 | Worker 1 stopped
+2026-04-03 19:44:00,128 | All workers stopped
+2026-04-03 19:51:09,897 | Worker 1 started
+2026-04-03 19:51:09,901 | Worker 2 started
+2026-04-03 19:51:09,905 | Worker 3 started
+2026-04-03 19:51:09,906 | Worker 4 started
+2026-04-03 19:51:09,907 | Worker 5 started
+2026-04-03 19:51:09,908 | Worker 6 started
+2026-04-03 19:51:09,909 | Worker 7 started
+2026-04-03 19:51:09,912 | Worker 8 started
+2026-04-03 19:51:09,913 | Worker 9 started
+2026-04-03 19:51:09,916 | Worker 10 started
+2026-04-03 19:51:09,917 | Started 10 worker(s) across 1 server(s)
+2026-04-03 19:55:31,042 | Worker 5 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:34,418 | Worker 6 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:35,178 | Worker 10 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:36,374 | Worker 7 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:42,403 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:48,011 | Worker 8 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:48,974 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:49,547 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:50,151 | Worker 9 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:55:50,230 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 999999 rows
+2026-04-03 19:56:21,103 | Stopping all workers …
+2026-04-03 19:56:26,833 | Worker 11 started
+2026-04-03 19:56:26,833 | Worker 11 stopped
+2026-04-03 19:56:26,834 | Worker 12 started
+2026-04-03 19:56:26,834 | Worker 12 stopped
+2026-04-03 19:56:26,834 | Worker 13 started
+2026-04-03 19:56:26,834 | Worker 13 stopped
+2026-04-03 19:56:26,835 | Worker 14 started
+2026-04-03 19:56:26,835 | Worker 15 started
+2026-04-03 19:56:26,835 | Worker 14 stopped
+2026-04-03 19:56:26,836 | Worker 15 stopped
+2026-04-03 19:56:26,836 | Worker 16 started
+2026-04-03 19:56:26,836 | Worker 17 started
+2026-04-03 19:56:26,836 | Worker 16 stopped
+2026-04-03 19:56:26,836 | Worker 18 started
+2026-04-03 19:56:26,836 | Worker 17 stopped
+2026-04-03 19:56:26,836 | Worker 19 started
+2026-04-03 19:56:26,836 | Worker 18 stopped
+2026-04-03 19:56:26,837 | Worker 20 started
+2026-04-03 19:56:26,837 | Worker 19 stopped
+2026-04-03 19:56:26,837 | Added 10 worker(s) — total 20
+2026-04-03 19:56:26,837 | Worker 20 stopped
+2026-04-03 19:56:27,959 | Worker 21 started
+2026-04-03 19:56:27,959 | Worker 21 stopped
+2026-04-03 19:56:27,959 | Worker 22 started
+2026-04-03 19:56:27,961 | Worker 22 stopped
+2026-04-03 19:56:27,961 | Worker 23 started
+2026-04-03 19:56:27,961 | Worker 23 stopped
+2026-04-03 19:56:27,961 | Worker 24 started
+2026-04-03 19:56:27,961 | Worker 24 stopped
+2026-04-03 19:56:27,962 | Worker 25 started
+2026-04-03 19:56:27,962 | Worker 25 stopped
+2026-04-03 19:56:27,962 | Worker 26 started
+2026-04-03 19:56:27,962 | Worker 26 stopped
+2026-04-03 19:56:27,962 | Worker 27 started
+2026-04-03 19:56:27,962 | Worker 27 stopped
+2026-04-03 19:56:27,964 | Worker 28 started
+2026-04-03 19:56:27,964 | Worker 28 stopped
+2026-04-03 19:56:27,964 | Worker 29 started
+2026-04-03 19:56:27,964 | Worker 29 stopped
+2026-04-03 19:56:27,964 | Worker 30 started
+2026-04-03 19:56:27,964 | Worker 30 stopped
+2026-04-03 19:56:27,965 | Added 10 worker(s) — total 30
+2026-04-03 19:56:28,793 | Worker 31 started
+2026-04-03 19:56:28,794 | Worker 31 stopped
+2026-04-03 19:56:28,794 | Worker 32 started
+2026-04-03 19:56:28,794 | Worker 32 stopped
+2026-04-03 19:56:28,794 | Worker 33 started
+2026-04-03 19:56:28,794 | Worker 33 stopped
+2026-04-03 19:56:28,794 | Worker 34 started
+2026-04-03 19:56:28,794 | Worker 34 stopped
+2026-04-03 19:56:28,795 | Worker 35 started
+2026-04-03 19:56:28,795 | Worker 35 stopped
+2026-04-03 19:56:28,795 | Worker 36 started
+2026-04-03 19:56:28,795 | Worker 36 stopped
+2026-04-03 19:56:28,795 | Worker 37 started
+2026-04-03 19:56:28,795 | Worker 37 stopped
+2026-04-03 19:56:28,796 | Worker 38 started
+2026-04-03 19:56:28,796 | Worker 38 stopped
+2026-04-03 19:56:28,796 | Worker 39 started
+2026-04-03 19:56:28,796 | Worker 39 stopped
+2026-04-03 19:56:28,796 | Worker 40 started
+2026-04-03 19:56:28,798 | Added 10 worker(s) — total 40
+2026-04-03 19:56:28,798 | Worker 40 stopped
+2026-04-03 19:56:29,531 | Worker 41 started
+2026-04-03 19:56:29,531 | Worker 41 stopped
+2026-04-03 19:56:29,532 | Worker 42 started
+2026-04-03 19:56:29,532 | Worker 42 stopped
+2026-04-03 19:56:29,532 | Worker 43 started
+2026-04-03 19:56:29,532 | Worker 43 stopped
+2026-04-03 19:56:29,534 | Worker 44 started
+2026-04-03 19:56:29,534 | Worker 44 stopped
+2026-04-03 19:56:29,534 | Worker 45 started
+2026-04-03 19:56:29,534 | Worker 45 stopped
+2026-04-03 19:56:29,535 | Worker 46 started
+2026-04-03 19:56:29,535 | Worker 46 stopped
+2026-04-03 19:56:29,535 | Worker 47 started
+2026-04-03 19:56:29,535 | Worker 47 stopped
+2026-04-03 19:56:29,535 | Worker 48 started
+2026-04-03 19:56:29,535 | Worker 48 stopped
+2026-04-03 19:56:29,536 | Worker 49 started
+2026-04-03 19:56:29,536 | Worker 49 stopped
+2026-04-03 19:56:29,536 | Worker 50 started
+2026-04-03 19:56:29,536 | Worker 50 stopped
+2026-04-03 19:56:29,536 | Added 10 worker(s) — total 50
+2026-04-03 19:56:39,806 | Worker 51 started
+2026-04-03 19:56:39,806 | Worker 51 stopped
+2026-04-03 19:56:39,806 | Worker 52 started
+2026-04-03 19:56:39,807 | Worker 52 stopped
+2026-04-03 19:56:39,807 | Worker 53 started
+2026-04-03 19:56:39,807 | Worker 53 stopped
+2026-04-03 19:56:39,807 | Worker 54 started
+2026-04-03 19:56:39,807 | Worker 54 stopped
+2026-04-03 19:56:39,808 | Worker 55 started
+2026-04-03 19:56:39,808 | Worker 55 stopped
+2026-04-03 19:56:39,808 | Worker 56 started
+2026-04-03 19:56:39,808 | Worker 56 stopped
+2026-04-03 19:56:39,809 | Worker 57 started
+2026-04-03 19:56:39,809 | Worker 57 stopped
+2026-04-03 19:56:39,809 | Worker 58 started
+2026-04-03 19:56:39,809 | Worker 58 stopped
+2026-04-03 19:56:39,809 | Worker 59 started
+2026-04-03 19:56:39,810 | Worker 59 stopped
+2026-04-03 19:56:39,810 | Worker 60 started
+2026-04-03 19:56:39,810 | Worker 60 stopped
+2026-04-03 19:56:39,810 | Added 10 worker(s) — total 60
+2026-04-03 19:56:40,297 | Worker 61 started
+2026-04-03 19:56:40,298 | Worker 61 stopped
+2026-04-03 19:56:40,298 | Worker 62 started
+2026-04-03 19:56:40,298 | Worker 62 stopped
+2026-04-03 19:56:40,298 | Worker 63 started
+2026-04-03 19:56:40,298 | Worker 63 stopped
+2026-04-03 19:56:40,299 | Worker 64 started
+2026-04-03 19:56:40,299 | Worker 64 stopped
+2026-04-03 19:56:40,299 | Worker 65 started
+2026-04-03 19:56:40,300 | Worker 65 stopped
+2026-04-03 19:56:40,300 | Worker 66 started
+2026-04-03 19:56:40,300 | Worker 66 stopped
+2026-04-03 19:56:40,300 | Worker 67 started
+2026-04-03 19:56:40,300 | Worker 68 started
+2026-04-03 19:56:40,301 | Worker 69 started
+2026-04-03 19:56:40,301 | Worker 67 stopped
+2026-04-03 19:56:40,301 | Worker 70 started
+2026-04-03 19:56:40,301 | Worker 68 stopped
+2026-04-03 19:56:40,301 | Added 10 worker(s) — total 70
+2026-04-03 19:56:40,303 | Worker 69 stopped
+2026-04-03 19:56:40,303 | Worker 70 stopped
+2026-04-03 19:56:40,582 | Worker 71 started
+2026-04-03 19:56:40,583 | Worker 71 stopped
+2026-04-03 19:56:40,583 | Worker 72 started
+2026-04-03 19:56:40,583 | Worker 72 stopped
+2026-04-03 19:56:40,584 | Worker 73 started
+2026-04-03 19:56:40,584 | Worker 73 stopped
+2026-04-03 19:56:40,584 | Worker 74 started
+2026-04-03 19:56:40,584 | Worker 74 stopped
+2026-04-03 19:56:40,585 | Worker 75 started
+2026-04-03 19:56:40,585 | Worker 75 stopped
+2026-04-03 19:56:40,585 | Worker 76 started
+2026-04-03 19:56:40,585 | Worker 76 stopped
+2026-04-03 19:56:40,586 | Worker 77 started
+2026-04-03 19:56:40,586 | Worker 77 stopped
+2026-04-03 19:56:40,586 | Worker 78 started
+2026-04-03 19:56:40,586 | Worker 78 stopped
+2026-04-03 19:56:40,587 | Worker 79 started
+2026-04-03 19:56:40,587 | Worker 79 stopped
+2026-04-03 19:56:40,587 | Worker 80 started
+2026-04-03 19:56:40,587 | Worker 80 stopped
+2026-04-03 19:56:40,587 | Added 10 worker(s) — total 80
+2026-04-03 19:56:40,861 | Worker 81 started
+2026-04-03 19:56:40,861 | Worker 81 stopped
+2026-04-03 19:56:40,861 | Worker 82 started
+2026-04-03 19:56:40,861 | Worker 82 stopped
+2026-04-03 19:56:40,862 | Worker 83 started
+2026-04-03 19:56:40,862 | Worker 83 stopped
+2026-04-03 19:56:40,863 | Worker 84 started
+2026-04-03 19:56:40,863 | Worker 84 stopped
+2026-04-03 19:56:40,863 | Worker 85 started
+2026-04-03 19:56:40,863 | Worker 85 stopped
+2026-04-03 19:56:40,863 | Worker 86 started
+2026-04-03 19:56:40,863 | Worker 86 stopped
+2026-04-03 19:56:40,864 | Worker 87 started
+2026-04-03 19:56:40,864 | Worker 87 stopped
+2026-04-03 19:56:40,864 | Worker 88 started
+2026-04-03 19:56:40,864 | Worker 88 stopped
+2026-04-03 19:56:40,865 | Worker 89 started
+2026-04-03 19:56:40,865 | Worker 89 stopped
+2026-04-03 19:56:40,865 | Worker 90 started
+2026-04-03 19:56:40,865 | Worker 90 stopped
+2026-04-03 19:56:40,865 | Added 10 worker(s) — total 90
+2026-04-03 19:56:41,222 | Worker 91 started
+2026-04-03 19:56:41,222 | Worker 91 stopped
+2026-04-03 19:56:41,222 | Worker 92 started
+2026-04-03 19:56:41,222 | Worker 92 stopped
+2026-04-03 19:56:41,223 | Worker 93 started
+2026-04-03 19:56:41,223 | Worker 93 stopped
+2026-04-03 19:56:41,223 | Worker 94 started
+2026-04-03 19:56:41,223 | Worker 94 stopped
+2026-04-03 19:56:41,224 | Worker 95 started
+2026-04-03 19:56:41,224 | Worker 95 stopped
+2026-04-03 19:56:41,224 | Worker 96 started
+2026-04-03 19:56:41,224 | Worker 96 stopped
+2026-04-03 19:56:41,224 | Worker 97 started
+2026-04-03 19:56:41,225 | Worker 97 stopped
+2026-04-03 19:56:41,225 | Worker 98 started
+2026-04-03 19:56:41,225 | Worker 99 started
+2026-04-03 19:56:41,226 | Worker 98 stopped
+2026-04-03 19:56:41,226 | Worker 100 started
+2026-04-03 19:56:41,226 | Worker 99 stopped
+2026-04-03 19:56:41,226 | Added 10 worker(s) — total 100
+2026-04-03 19:56:41,226 | Worker 100 stopped
+2026-04-03 19:57:03,537 | Worker 101 started
+2026-04-03 19:57:03,537 | Worker 101 stopped
+2026-04-03 19:57:03,537 | Worker 102 started
+2026-04-03 19:57:03,537 | Worker 102 stopped
+2026-04-03 19:57:03,537 | Worker 103 started
+2026-04-03 19:57:03,537 | Worker 103 stopped
+2026-04-03 19:57:03,538 | Worker 104 started
+2026-04-03 19:57:03,538 | Worker 104 stopped
+2026-04-03 19:57:03,538 | Worker 105 started
+2026-04-03 19:57:03,538 | Worker 105 stopped
+2026-04-03 19:57:03,539 | Worker 106 started
+2026-04-03 19:57:03,539 | Worker 106 stopped
+2026-04-03 19:57:03,539 | Worker 107 started
+2026-04-03 19:57:03,539 | Worker 107 stopped
+2026-04-03 19:57:03,539 | Worker 108 started
+2026-04-03 19:57:03,539 | Worker 108 stopped
+2026-04-03 19:57:03,541 | Worker 109 started
+2026-04-03 19:57:03,541 | Worker 110 started
+2026-04-03 19:57:03,541 | Worker 109 stopped
+2026-04-03 19:57:03,541 | Added 10 worker(s) — total 110
+2026-04-03 19:57:03,542 | Worker 110 stopped
+2026-04-03 19:57:03,801 | Worker 111 started
+2026-04-03 19:57:03,802 | Worker 111 stopped
+2026-04-03 19:57:03,802 | Worker 112 started
+2026-04-03 19:57:03,802 | Worker 112 stopped
+2026-04-03 19:57:03,803 | Worker 113 started
+2026-04-03 19:57:03,803 | Worker 113 stopped
+2026-04-03 19:57:03,803 | Worker 114 started
+2026-04-03 19:57:03,803 | Worker 114 stopped
+2026-04-03 19:57:03,803 | Worker 115 started
+2026-04-03 19:57:03,803 | Worker 115 stopped
+2026-04-03 19:57:03,804 | Worker 116 started
+2026-04-03 19:57:03,804 | Worker 116 stopped
+2026-04-03 19:57:03,804 | Worker 117 started
+2026-04-03 19:57:03,804 | Worker 117 stopped
+2026-04-03 19:57:03,804 | Worker 118 started
+2026-04-03 19:57:03,804 | Worker 118 stopped
+2026-04-03 19:57:03,804 | Worker 119 started
+2026-04-03 19:57:03,806 | Worker 119 stopped
+2026-04-03 19:57:03,806 | Worker 120 started
+2026-04-03 19:57:03,806 | Worker 120 stopped
+2026-04-03 19:57:03,806 | Added 10 worker(s) — total 120
+2026-04-03 19:57:03,984 | Worker 121 started
+2026-04-03 19:57:03,984 | Worker 121 stopped
+2026-04-03 19:57:03,985 | Worker 122 started
+2026-04-03 19:57:03,985 | Worker 122 stopped
+2026-04-03 19:57:03,985 | Worker 123 started
+2026-04-03 19:57:03,985 | Worker 123 stopped
+2026-04-03 19:57:03,986 | Worker 124 started
+2026-04-03 19:57:03,986 | Worker 124 stopped
+2026-04-03 19:57:03,986 | Worker 125 started
+2026-04-03 19:57:03,986 | Worker 125 stopped
+2026-04-03 19:57:03,987 | Worker 126 started
+2026-04-03 19:57:03,987 | Worker 126 stopped
+2026-04-03 19:57:03,987 | Worker 127 started
+2026-04-03 19:57:03,987 | Worker 127 stopped
+2026-04-03 19:57:03,988 | Worker 128 started
+2026-04-03 19:57:03,988 | Worker 128 stopped
+2026-04-03 19:57:03,988 | Worker 129 started
+2026-04-03 19:57:03,988 | Worker 129 stopped
+2026-04-03 19:57:03,989 | Worker 130 started
+2026-04-03 19:57:03,989 | Added 10 worker(s) — total 130
+2026-04-03 19:57:03,989 | Worker 130 stopped
+2026-04-03 19:57:04,113 | Worker 131 started
+2026-04-03 19:57:04,115 | Worker 131 stopped
+2026-04-03 19:57:04,115 | Worker 132 started
+2026-04-03 19:57:04,115 | Worker 132 stopped
+2026-04-03 19:57:04,115 | Worker 133 started
+2026-04-03 19:57:04,115 | Worker 133 stopped
+2026-04-03 19:57:04,116 | Worker 134 started
+2026-04-03 19:57:04,116 | Worker 134 stopped
+2026-04-03 19:57:04,116 | Worker 135 started
+2026-04-03 19:57:04,116 | Worker 135 stopped
+2026-04-03 19:57:04,118 | Worker 136 started
+2026-04-03 19:57:04,118 | Worker 136 stopped
+2026-04-03 19:57:04,118 | Worker 137 started
+2026-04-03 19:57:04,118 | Worker 137 stopped
+2026-04-03 19:57:04,118 | Worker 138 started
+2026-04-03 19:57:04,118 | Worker 139 started
+2026-04-03 19:57:04,118 | Worker 138 stopped
+2026-04-03 19:57:04,119 | Worker 140 started
+2026-04-03 19:57:04,119 | Added 10 worker(s) — total 140
+2026-04-03 19:57:04,119 | Worker 139 stopped
+2026-04-03 19:57:04,119 | Worker 140 stopped
+2026-04-03 19:57:04,485 | Worker 141 started
+2026-04-03 19:57:04,485 | Worker 141 stopped
+2026-04-03 19:57:04,486 | Worker 142 started
+2026-04-03 19:57:04,486 | Worker 142 stopped
+2026-04-03 19:57:04,486 | Worker 143 started
+2026-04-03 19:57:04,486 | Worker 143 stopped
+2026-04-03 19:57:04,486 | Worker 144 started
+2026-04-03 19:57:04,487 | Worker 144 stopped
+2026-04-03 19:57:04,487 | Worker 145 started
+2026-04-03 19:57:04,487 | Worker 145 stopped
+2026-04-03 19:57:04,487 | Worker 146 started
+2026-04-03 19:57:04,487 | Worker 146 stopped
+2026-04-03 19:57:04,488 | Worker 147 started
+2026-04-03 19:57:04,488 | Worker 147 stopped
+2026-04-03 19:57:04,488 | Worker 148 started
+2026-04-03 19:57:04,488 | Worker 148 stopped
+2026-04-03 19:57:04,489 | Worker 149 started
+2026-04-03 19:57:04,489 | Worker 149 stopped
+2026-04-03 19:57:04,489 | Worker 150 started
+2026-04-03 19:57:04,489 | Worker 150 stopped
+2026-04-03 19:57:04,489 | Added 10 worker(s) — total 150
+2026-04-03 19:57:04,782 | Worker 151 started
+2026-04-03 19:57:04,782 | Worker 151 stopped
+2026-04-03 19:57:04,783 | Worker 152 started
+2026-04-03 19:57:04,783 | Worker 152 stopped
+2026-04-03 19:57:04,783 | Worker 153 started
+2026-04-03 19:57:04,783 | Worker 153 stopped
+2026-04-03 19:57:04,783 | Worker 154 started
+2026-04-03 19:57:04,783 | Worker 154 stopped
+2026-04-03 19:57:04,783 | Worker 155 started
+2026-04-03 19:57:04,784 | Worker 155 stopped
+2026-04-03 19:57:04,784 | Worker 156 started
+2026-04-03 19:57:04,784 | Worker 156 stopped
+2026-04-03 19:57:04,784 | Worker 157 started
+2026-04-03 19:57:04,784 | Worker 157 stopped
+2026-04-03 19:57:04,785 | Worker 158 started
+2026-04-03 19:57:04,785 | Worker 158 stopped
+2026-04-03 19:57:04,785 | Worker 159 started
+2026-04-03 19:57:04,786 | Worker 159 stopped
+2026-04-03 19:57:04,786 | Worker 160 started
+2026-04-03 19:57:04,786 | Worker 160 stopped
+2026-04-03 19:57:04,786 | Added 10 worker(s) — total 160
+2026-04-03 19:57:05,077 | Worker 161 started
+2026-04-03 19:57:05,077 | Worker 161 stopped
+2026-04-03 19:57:05,077 | Worker 162 started
+2026-04-03 19:57:05,078 | Worker 162 stopped
+2026-04-03 19:57:05,078 | Worker 163 started
+2026-04-03 19:57:05,078 | Worker 163 stopped
+2026-04-03 19:57:05,078 | Worker 164 started
+2026-04-03 19:57:05,078 | Worker 164 stopped
+2026-04-03 19:57:05,079 | Worker 165 started
+2026-04-03 19:57:05,079 | Worker 165 stopped
+2026-04-03 19:57:05,079 | Worker 166 started
+2026-04-03 19:57:05,079 | Worker 167 started
+2026-04-03 19:57:05,079 | Worker 166 stopped
+2026-04-03 19:57:05,080 | Worker 168 started
+2026-04-03 19:57:05,080 | Worker 167 stopped
+2026-04-03 19:57:05,080 | Worker 169 started
+2026-04-03 19:57:05,080 | Worker 168 stopped
+2026-04-03 19:57:05,081 | Worker 169 stopped
+2026-04-03 19:57:05,081 | Worker 170 started
+2026-04-03 19:57:05,081 | Added 10 worker(s) — total 170
+2026-04-03 19:57:05,081 | Worker 170 stopped
+2026-04-03 19:57:05,308 | Worker 171 started
+2026-04-03 19:57:05,308 | Worker 171 stopped
+2026-04-03 19:57:05,308 | Worker 172 started
+2026-04-03 19:57:05,309 | Worker 172 stopped
+2026-04-03 19:57:05,309 | Worker 173 started
+2026-04-03 19:57:05,309 | Worker 173 stopped
+2026-04-03 19:57:05,309 | Worker 174 started
+2026-04-03 19:57:05,310 | Worker 174 stopped
+2026-04-03 19:57:05,310 | Worker 175 started
+2026-04-03 19:57:05,310 | Worker 175 stopped
+2026-04-03 19:57:05,310 | Worker 176 started
+2026-04-03 19:57:05,310 | Worker 176 stopped
+2026-04-03 19:57:05,311 | Worker 177 started
+2026-04-03 19:57:05,311 | Worker 177 stopped
+2026-04-03 19:57:05,311 | Worker 178 started
+2026-04-03 19:57:05,311 | Worker 178 stopped
+2026-04-03 19:57:05,311 | Worker 179 started
+2026-04-03 19:57:05,312 | Worker 179 stopped
+2026-04-03 19:57:05,312 | Worker 180 started
+2026-04-03 19:57:05,312 | Added 10 worker(s) — total 180
+2026-04-03 19:57:05,312 | Worker 180 stopped
+2026-04-03 19:57:05,933 | Worker 181 started
+2026-04-03 19:57:05,933 | Worker 181 stopped
+2026-04-03 19:57:05,935 | Worker 182 started
+2026-04-03 19:57:05,935 | Worker 182 stopped
+2026-04-03 19:57:05,935 | Worker 183 started
+2026-04-03 19:57:05,936 | Worker 183 stopped
+2026-04-03 19:57:05,936 | Worker 184 started
+2026-04-03 19:57:05,936 | Worker 184 stopped
+2026-04-03 19:57:05,936 | Worker 185 started
+2026-04-03 19:57:05,937 | Worker 185 stopped
+2026-04-03 19:57:05,937 | Worker 186 started
+2026-04-03 19:57:05,937 | Worker 186 stopped
+2026-04-03 19:57:05,937 | Worker 187 started
+2026-04-03 19:57:05,938 | Worker 187 stopped
+2026-04-03 19:57:05,938 | Worker 188 started
+2026-04-03 19:57:05,938 | Worker 188 stopped
+2026-04-03 19:57:05,938 | Worker 189 started
+2026-04-03 19:57:05,939 | Worker 189 stopped
+2026-04-03 19:57:05,940 | Worker 190 started
+2026-04-03 19:57:05,940 | Worker 190 stopped
+2026-04-03 19:57:05,940 | Added 10 worker(s) — total 190
+2026-04-03 19:57:05,945 | Worker 191 started
+2026-04-03 19:57:05,946 | Worker 191 stopped
+2026-04-03 19:57:05,946 | Worker 192 started
+2026-04-03 19:57:05,947 | Worker 192 stopped
+2026-04-03 19:57:05,949 | Worker 193 started
+2026-04-03 19:57:05,949 | Worker 193 stopped
+2026-04-03 19:57:05,951 | Worker 194 started
+2026-04-03 19:57:05,951 | Worker 194 stopped
+2026-04-03 19:57:05,952 | Worker 195 started
+2026-04-03 19:57:05,952 | Worker 195 stopped
+2026-04-03 19:57:05,952 | Worker 196 started
+2026-04-03 19:57:05,952 | Worker 196 stopped
+2026-04-03 19:57:05,953 | Worker 197 started
+2026-04-03 19:57:05,953 | Worker 197 stopped
+2026-04-03 19:57:05,953 | Worker 198 started
+2026-04-03 19:57:05,953 | Worker 198 stopped
+2026-04-03 19:57:05,954 | Worker 199 started
+2026-04-03 19:57:05,954 | Worker 199 stopped
+2026-04-03 19:57:05,955 | Worker 200 started
+2026-04-03 19:57:05,955 | Added 10 worker(s) — total 200
+2026-04-03 19:57:05,955 | Worker 200 stopped
+2026-04-03 19:57:05,958 | Worker 201 started
+2026-04-03 19:57:05,958 | Worker 201 stopped
+2026-04-03 19:57:05,958 | Worker 202 started
+2026-04-03 19:57:05,958 | Worker 202 stopped
+2026-04-03 19:57:05,958 | Worker 203 started
+2026-04-03 19:57:05,960 | Worker 204 started
+2026-04-03 19:57:05,960 | Worker 203 stopped
+2026-04-03 19:57:05,960 | Worker 204 stopped
+2026-04-03 19:57:05,960 | Worker 205 started
+2026-04-03 19:57:05,961 | Worker 206 started
+2026-04-03 19:57:05,961 | Worker 207 started
+2026-04-03 19:57:05,961 | Worker 205 stopped
+2026-04-03 19:57:05,961 | Worker 206 stopped
+2026-04-03 19:57:05,962 | Worker 208 started
+2026-04-03 19:57:05,962 | Worker 207 stopped
+2026-04-03 19:57:05,962 | Worker 209 started
+2026-04-03 19:57:05,963 | Worker 208 stopped
+2026-04-03 19:57:05,963 | Worker 210 started
+2026-04-03 19:57:05,963 | Added 10 worker(s) — total 210
+2026-04-03 19:57:05,964 | Worker 209 stopped
+2026-04-03 19:57:05,964 | Worker 210 stopped
+2026-04-03 19:57:05,995 | Worker 211 started
+2026-04-03 19:57:05,995 | Worker 211 stopped
+2026-04-03 19:57:05,995 | Worker 212 started
+2026-04-03 19:57:05,996 | Worker 212 stopped
+2026-04-03 19:57:05,996 | Worker 213 started
+2026-04-03 19:57:05,996 | Worker 213 stopped
+2026-04-03 19:57:05,996 | Worker 214 started
+2026-04-03 19:57:05,996 | Worker 214 stopped
+2026-04-03 19:57:05,997 | Worker 215 started
+2026-04-03 19:57:05,997 | Worker 216 started
+2026-04-03 19:57:05,997 | Worker 215 stopped
+2026-04-03 19:57:05,997 | Worker 217 started
+2026-04-03 19:57:05,997 | Worker 216 stopped
+2026-04-03 19:57:05,997 | Worker 218 started
+2026-04-03 19:57:05,998 | Worker 219 started
+2026-04-03 19:57:05,998 | Worker 217 stopped
+2026-04-03 19:57:05,998 | Worker 220 started
+2026-04-03 19:57:05,998 | Added 10 worker(s) — total 220
+2026-04-03 19:57:05,999 | Worker 218 stopped
+2026-04-03 19:57:05,999 | Worker 219 stopped
+2026-04-03 19:57:05,999 | Worker 220 stopped
+2026-04-03 19:57:06,138 | Worker 221 started
+2026-04-03 19:57:06,138 | Worker 221 stopped
+2026-04-03 19:57:06,139 | Worker 222 started
+2026-04-03 19:57:06,139 | Worker 222 stopped
+2026-04-03 19:57:06,139 | Worker 223 started
+2026-04-03 19:57:06,139 | Worker 224 started
+2026-04-03 19:57:06,139 | Worker 223 stopped
+2026-04-03 19:57:06,141 | Worker 225 started
+2026-04-03 19:57:06,141 | Worker 224 stopped
+2026-04-03 19:57:06,141 | Worker 226 started
+2026-04-03 19:57:06,141 | Worker 227 started
+2026-04-03 19:57:06,141 | Worker 225 stopped
+2026-04-03 19:57:06,142 | Worker 228 started
+2026-04-03 19:57:06,142 | Worker 226 stopped
+2026-04-03 19:57:06,142 | Worker 229 started
+2026-04-03 19:57:06,142 | Worker 227 stopped
+2026-04-03 19:57:06,142 | Worker 230 started
+2026-04-03 19:57:06,143 | Worker 228 stopped
+2026-04-03 19:57:06,143 | Added 10 worker(s) — total 230
+2026-04-03 19:57:06,143 | Worker 229 stopped
+2026-04-03 19:57:06,143 | Worker 230 stopped
+2026-04-03 19:57:06,315 | Worker 231 started
+2026-04-03 19:57:06,317 | Worker 231 stopped
+2026-04-03 19:57:06,317 | Worker 232 started
+2026-04-03 19:57:06,317 | Worker 232 stopped
+2026-04-03 19:57:06,317 | Worker 233 started
+2026-04-03 19:57:06,317 | Worker 233 stopped
+2026-04-03 19:57:06,317 | Worker 234 started
+2026-04-03 19:57:06,318 | Worker 234 stopped
+2026-04-03 19:57:06,318 | Worker 235 started
+2026-04-03 19:57:06,318 | Worker 235 stopped
+2026-04-03 19:57:06,318 | Worker 236 started
+2026-04-03 19:57:06,318 | Worker 236 stopped
+2026-04-03 19:57:06,320 | Worker 237 started
+2026-04-03 19:57:06,320 | Worker 237 stopped
+2026-04-03 19:57:06,320 | Worker 238 started
+2026-04-03 19:57:06,320 | Worker 238 stopped
+2026-04-03 19:57:06,320 | Worker 239 started
+2026-04-03 19:57:06,320 | Worker 239 stopped
+2026-04-03 19:57:06,321 | Worker 240 started
+2026-04-03 19:57:06,321 | Worker 240 stopped
+2026-04-03 19:57:06,321 | Added 10 worker(s) — total 240
+2026-04-03 19:57:06,483 | Worker 241 started
+2026-04-03 19:57:06,483 | Worker 241 stopped
+2026-04-03 19:57:06,485 | Worker 242 started
+2026-04-03 19:57:06,485 | Worker 242 stopped
+2026-04-03 19:57:06,485 | Worker 243 started
+2026-04-03 19:57:06,485 | Worker 243 stopped
+2026-04-03 19:57:06,485 | Worker 244 started
+2026-04-03 19:57:06,486 | Worker 244 stopped
+2026-04-03 19:57:06,486 | Worker 245 started
+2026-04-03 19:57:06,486 | Worker 245 stopped
+2026-04-03 19:57:06,486 | Worker 246 started
+2026-04-03 19:57:06,487 | Worker 247 started
+2026-04-03 19:57:06,487 | Worker 248 started
+2026-04-03 19:57:06,487 | Worker 249 started
+2026-04-03 19:57:06,487 | Worker 246 stopped
+2026-04-03 19:57:06,487 | Worker 247 stopped
+2026-04-03 19:57:06,487 | Worker 248 stopped
+2026-04-03 19:57:06,487 | Worker 250 started
+2026-04-03 19:57:06,487 | Worker 249 stopped
+2026-04-03 19:57:06,488 | Added 10 worker(s) — total 250
+2026-04-03 19:57:06,488 | Worker 250 stopped
+2026-04-03 19:57:06,652 | Worker 251 started
+2026-04-03 19:57:06,653 | Worker 251 stopped
+2026-04-03 19:57:06,653 | Worker 252 started
+2026-04-03 19:57:06,654 | Worker 252 stopped
+2026-04-03 19:57:06,654 | Worker 253 started
+2026-04-03 19:57:06,654 | Worker 253 stopped
+2026-04-03 19:57:06,654 | Worker 254 started
+2026-04-03 19:57:06,654 | Worker 254 stopped
+2026-04-03 19:57:06,655 | Worker 255 started
+2026-04-03 19:57:06,655 | Worker 255 stopped
+2026-04-03 19:57:06,655 | Worker 256 started
+2026-04-03 19:57:06,655 | Worker 256 stopped
+2026-04-03 19:57:06,655 | Worker 257 started
+2026-04-03 19:57:06,655 | Worker 257 stopped
+2026-04-03 19:57:06,656 | Worker 258 started
+2026-04-03 19:57:06,656 | Worker 258 stopped
+2026-04-03 19:57:06,656 | Worker 259 started
+2026-04-03 19:57:06,657 | Worker 259 stopped
+2026-04-03 19:57:06,657 | Worker 260 started
+2026-04-03 19:57:06,657 | Worker 260 stopped
+2026-04-03 19:57:06,657 | Added 10 worker(s) — total 260
+2026-04-03 19:57:06,835 | Worker 261 started
+2026-04-03 19:57:06,835 | Worker 261 stopped
+2026-04-03 19:57:06,835 | Worker 262 started
+2026-04-03 19:57:06,835 | Worker 262 stopped
+2026-04-03 19:57:06,835 | Worker 263 started
+2026-04-03 19:57:06,836 | Worker 263 stopped
+2026-04-03 19:57:06,836 | Worker 264 started
+2026-04-03 19:57:06,836 | Worker 264 stopped
+2026-04-03 19:57:06,836 | Worker 265 started
+2026-04-03 19:57:06,836 | Worker 265 stopped
+2026-04-03 19:57:06,837 | Worker 266 started
+2026-04-03 19:57:06,837 | Worker 266 stopped
+2026-04-03 19:57:06,837 | Worker 267 started
+2026-04-03 19:57:06,837 | Worker 267 stopped
+2026-04-03 19:57:06,838 | Worker 268 started
+2026-04-03 19:57:06,838 | Worker 268 stopped
+2026-04-03 19:57:06,838 | Worker 269 started
+2026-04-03 19:57:06,838 | Worker 269 stopped
+2026-04-03 19:57:06,838 | Worker 270 started
+2026-04-03 19:57:06,838 | Worker 270 stopped
+2026-04-03 19:57:06,838 | Added 10 worker(s) — total 270
+2026-04-03 19:57:06,985 | Worker 271 started
+2026-04-03 19:57:06,985 | Worker 271 stopped
+2026-04-03 19:57:06,985 | Worker 272 started
+2026-04-03 19:57:06,985 | Worker 272 stopped
+2026-04-03 19:57:06,985 | Worker 273 started
+2026-04-03 19:57:06,986 | Worker 273 stopped
+2026-04-03 19:57:06,986 | Worker 274 started
+2026-04-03 19:57:06,986 | Worker 274 stopped
+2026-04-03 19:57:06,986 | Worker 275 started
+2026-04-03 19:57:06,987 | Worker 275 stopped
+2026-04-03 19:57:06,987 | Worker 276 started
+2026-04-03 19:57:06,987 | Worker 276 stopped
+2026-04-03 19:57:06,987 | Worker 277 started
+2026-04-03 19:57:06,987 | Worker 277 stopped
+2026-04-03 19:57:06,987 | Worker 278 started
+2026-04-03 19:57:06,987 | Worker 278 stopped
+2026-04-03 19:57:06,987 | Worker 279 started
+2026-04-03 19:57:06,988 | Worker 279 stopped
+2026-04-03 19:57:06,988 | Worker 280 started
+2026-04-03 19:57:06,988 | Worker 280 stopped
+2026-04-03 19:57:06,988 | Added 10 worker(s) — total 280
+2026-04-03 19:57:07,152 | Worker 281 started
+2026-04-03 19:57:07,152 | Worker 281 stopped
+2026-04-03 19:57:07,153 | Worker 282 started
+2026-04-03 19:57:07,153 | Worker 282 stopped
+2026-04-03 19:57:07,153 | Worker 283 started
+2026-04-03 19:57:07,153 | Worker 283 stopped
+2026-04-03 19:57:07,153 | Worker 284 started
+2026-04-03 19:57:07,154 | Worker 284 stopped
+2026-04-03 19:57:07,154 | Worker 285 started
+2026-04-03 19:57:07,154 | Worker 285 stopped
+2026-04-03 19:57:07,154 | Worker 286 started
+2026-04-03 19:57:07,154 | Worker 286 stopped
+2026-04-03 19:57:07,154 | Worker 287 started
+2026-04-03 19:57:07,156 | Worker 287 stopped
+2026-04-03 19:57:07,156 | Worker 288 started
+2026-04-03 19:57:07,156 | Worker 288 stopped
+2026-04-03 19:57:07,156 | Worker 289 started
+2026-04-03 19:57:07,156 | Worker 289 stopped
+2026-04-03 19:57:07,156 | Worker 290 started
+2026-04-03 19:57:07,156 | Worker 290 stopped
+2026-04-03 19:57:07,157 | Added 10 worker(s) — total 290
+2026-04-03 19:57:07,332 | Worker 291 started
+2026-04-03 19:57:07,332 | Worker 291 stopped
+2026-04-03 19:57:07,333 | Worker 292 started
+2026-04-03 19:57:07,333 | Worker 292 stopped
+2026-04-03 19:57:07,333 | Worker 293 started
+2026-04-03 19:57:07,333 | Worker 293 stopped
+2026-04-03 19:57:07,333 | Worker 294 started
+2026-04-03 19:57:07,335 | Worker 295 started
+2026-04-03 19:57:07,335 | Worker 294 stopped
+2026-04-03 19:57:07,335 | Worker 295 stopped
+2026-04-03 19:57:07,335 | Worker 296 started
+2026-04-03 19:57:07,336 | Worker 297 started
+2026-04-03 19:57:07,336 | Worker 296 stopped
+2026-04-03 19:57:07,336 | Worker 297 stopped
+2026-04-03 19:57:07,336 | Worker 298 started
+2026-04-03 19:57:07,336 | Worker 299 started
+2026-04-03 19:57:07,337 | Worker 298 stopped
+2026-04-03 19:57:07,337 | Worker 299 stopped
+2026-04-03 19:57:07,337 | Worker 300 started
+2026-04-03 19:57:07,338 | Added 10 worker(s) — total 300
+2026-04-03 19:57:07,338 | Worker 300 stopped
+2026-04-03 19:57:07,570 | Worker 301 started
+2026-04-03 19:57:07,570 | Worker 301 stopped
+2026-04-03 19:57:07,572 | Worker 302 started
+2026-04-03 19:57:07,572 | Worker 302 stopped
+2026-04-03 19:57:07,573 | Worker 303 started
+2026-04-03 19:57:07,573 | Worker 303 stopped
+2026-04-03 19:57:07,573 | Worker 304 started
+2026-04-03 19:57:07,575 | Worker 304 stopped
+2026-04-03 19:57:07,575 | Worker 305 started
+2026-04-03 19:57:07,575 | Worker 305 stopped
+2026-04-03 19:57:07,575 | Worker 306 started
+2026-04-03 19:57:07,575 | Worker 306 stopped
+2026-04-03 19:57:07,576 | Worker 307 started
+2026-04-03 19:57:07,576 | Worker 308 started
+2026-04-03 19:57:07,576 | Worker 307 stopped
+2026-04-03 19:57:07,576 | Worker 308 stopped
+2026-04-03 19:57:07,577 | Worker 309 started
+2026-04-03 19:57:07,577 | Worker 309 stopped
+2026-04-03 19:57:07,577 | Worker 310 started
+2026-04-03 19:57:07,577 | Worker 310 stopped
+2026-04-03 19:57:07,578 | Added 10 worker(s) — total 310
+2026-04-03 19:57:07,666 | Worker 311 started
+2026-04-03 19:57:07,666 | Worker 311 stopped
+2026-04-03 19:57:07,667 | Worker 312 started
+2026-04-03 19:57:07,667 | Worker 312 stopped
+2026-04-03 19:57:07,667 | Worker 313 started
+2026-04-03 19:57:07,667 | Worker 313 stopped
+2026-04-03 19:57:07,667 | Worker 314 started
+2026-04-03 19:57:07,668 | Worker 315 started
+2026-04-03 19:57:07,668 | Worker 314 stopped
+2026-04-03 19:57:07,668 | Worker 315 stopped
+2026-04-03 19:57:07,668 | Worker 316 started
+2026-04-03 19:57:07,669 | Worker 316 stopped
+2026-04-03 19:57:07,669 | Worker 317 started
+2026-04-03 19:57:07,669 | Worker 317 stopped
+2026-04-03 19:57:07,669 | Worker 318 started
+2026-04-03 19:57:07,669 | Worker 318 stopped
+2026-04-03 19:57:07,669 | Worker 319 started
+2026-04-03 19:57:07,670 | Worker 319 stopped
+2026-04-03 19:57:07,670 | Worker 320 started
+2026-04-03 19:57:07,670 | Added 10 worker(s) — total 320
+2026-04-03 19:57:07,670 | Worker 320 stopped
+2026-04-03 19:57:07,835 | Worker 321 started
+2026-04-03 19:57:07,835 | Worker 321 stopped
+2026-04-03 19:57:07,835 | Worker 322 started
+2026-04-03 19:57:07,835 | Worker 322 stopped
+2026-04-03 19:57:07,836 | Worker 323 started
+2026-04-03 19:57:07,836 | Worker 323 stopped
+2026-04-03 19:57:07,836 | Worker 324 started
+2026-04-03 19:57:07,836 | Worker 324 stopped
+2026-04-03 19:57:07,837 | Worker 325 started
+2026-04-03 19:57:07,837 | Worker 325 stopped
+2026-04-03 19:57:07,837 | Worker 326 started
+2026-04-03 19:57:07,837 | Worker 326 stopped
+2026-04-03 19:57:07,837 | Worker 327 started
+2026-04-03 19:57:07,837 | Worker 327 stopped
+2026-04-03 19:57:07,838 | Worker 328 started
+2026-04-03 19:57:07,838 | Worker 328 stopped
+2026-04-03 19:57:07,838 | Worker 329 started
+2026-04-03 19:57:07,838 | Worker 329 stopped
+2026-04-03 19:57:07,838 | Worker 330 started
+2026-04-03 19:57:07,839 | Worker 330 stopped
+2026-04-03 19:57:07,839 | Added 10 worker(s) — total 330
+2026-04-03 19:57:08,001 | Worker 331 started
+2026-04-03 19:57:08,001 | Worker 331 stopped
+2026-04-03 19:57:08,002 | Worker 332 started
+2026-04-03 19:57:08,002 | Worker 332 stopped
+2026-04-03 19:57:08,002 | Worker 333 started
+2026-04-03 19:57:08,002 | Worker 333 stopped
+2026-04-03 19:57:08,003 | Worker 334 started
+2026-04-03 19:57:08,003 | Worker 334 stopped
+2026-04-03 19:57:08,003 | Worker 335 started
+2026-04-03 19:57:08,004 | Worker 335 stopped
+2026-04-03 19:57:08,004 | Worker 336 started
+2026-04-03 19:57:08,004 | Worker 336 stopped
+2026-04-03 19:57:08,004 | Worker 337 started
+2026-04-03 19:57:08,004 | Worker 337 stopped
+2026-04-03 19:57:08,005 | Worker 338 started
+2026-04-03 19:57:08,005 | Worker 338 stopped
+2026-04-03 19:57:08,005 | Worker 339 started
+2026-04-03 19:57:08,005 | Worker 339 stopped
+2026-04-03 19:57:08,005 | Worker 340 started
+2026-04-03 19:57:08,005 | Worker 340 stopped
+2026-04-03 19:57:08,005 | Added 10 worker(s) — total 340
+2026-04-03 19:57:08,216 | Worker 341 started
+2026-04-03 19:57:08,217 | Worker 341 stopped
+2026-04-03 19:57:08,217 | Worker 342 started
+2026-04-03 19:57:08,218 | Worker 342 stopped
+2026-04-03 19:57:08,218 | Worker 343 started
+2026-04-03 19:57:08,218 | Worker 343 stopped
+2026-04-03 19:57:08,218 | Worker 344 started
+2026-04-03 19:57:08,218 | Worker 344 stopped
+2026-04-03 19:57:08,218 | Worker 345 started
+2026-04-03 19:57:08,219 | Worker 346 started
+2026-04-03 19:57:08,219 | Worker 347 started
+2026-04-03 19:57:08,219 | Worker 345 stopped
+2026-04-03 19:57:08,219 | Worker 346 stopped
+2026-04-03 19:57:08,219 | Worker 347 stopped
+2026-04-03 19:57:08,219 | Worker 348 started
+2026-04-03 19:57:08,219 | Worker 349 started
+2026-04-03 19:57:08,221 | Worker 350 started
+2026-04-03 19:57:08,221 | Added 10 worker(s) — total 350
+2026-04-03 19:57:08,221 | Worker 348 stopped
+2026-04-03 19:57:08,221 | Worker 349 stopped
+2026-04-03 19:57:08,222 | Worker 350 stopped
+2026-04-03 19:57:08,399 | Worker 351 started
+2026-04-03 19:57:08,400 | Worker 351 stopped
+2026-04-03 19:57:08,400 | Worker 352 started
+2026-04-03 19:57:08,400 | Worker 352 stopped
+2026-04-03 19:57:08,400 | Worker 353 started
+2026-04-03 19:57:08,401 | Worker 353 stopped
+2026-04-03 19:57:08,401 | Worker 354 started
+2026-04-03 19:57:08,401 | Worker 354 stopped
+2026-04-03 19:57:08,401 | Worker 355 started
+2026-04-03 19:57:08,401 | Worker 355 stopped
+2026-04-03 19:57:08,402 | Worker 356 started
+2026-04-03 19:57:08,402 | Worker 356 stopped
+2026-04-03 19:57:08,402 | Worker 357 started
+2026-04-03 19:57:08,402 | Worker 357 stopped
+2026-04-03 19:57:08,402 | Worker 358 started
+2026-04-03 19:57:08,402 | Worker 358 stopped
+2026-04-03 19:57:08,403 | Worker 359 started
+2026-04-03 19:57:08,403 | Worker 359 stopped
+2026-04-03 19:57:08,403 | Worker 360 started
+2026-04-03 19:57:08,403 | Worker 360 stopped
+2026-04-03 19:57:08,403 | Added 10 worker(s) — total 360
+2026-04-03 19:57:08,574 | Worker 361 started
+2026-04-03 19:57:08,574 | Worker 361 stopped
+2026-04-03 19:57:08,575 | Worker 362 started
+2026-04-03 19:57:08,575 | Worker 362 stopped
+2026-04-03 19:57:08,575 | Worker 363 started
+2026-04-03 19:57:08,575 | Worker 363 stopped
+2026-04-03 19:57:08,576 | Worker 364 started
+2026-04-03 19:57:08,576 | Worker 364 stopped
+2026-04-03 19:57:08,576 | Worker 365 started
+2026-04-03 19:57:08,576 | Worker 365 stopped
+2026-04-03 19:57:08,576 | Worker 366 started
+2026-04-03 19:57:08,577 | Worker 366 stopped
+2026-04-03 19:57:08,577 | Worker 367 started
+2026-04-03 19:57:08,577 | Worker 367 stopped
+2026-04-03 19:57:08,577 | Worker 368 started
+2026-04-03 19:57:08,578 | Worker 368 stopped
+2026-04-03 19:57:08,578 | Worker 369 started
+2026-04-03 19:57:08,578 | Worker 369 stopped
+2026-04-03 19:57:08,578 | Worker 370 started
+2026-04-03 19:57:08,579 | Worker 370 stopped
+2026-04-03 19:57:08,579 | Added 10 worker(s) — total 370
+2026-04-03 19:57:08,725 | Worker 371 started
+2026-04-03 19:57:08,725 | Worker 371 stopped
+2026-04-03 19:57:08,726 | Worker 372 started
+2026-04-03 19:57:08,726 | Worker 372 stopped
+2026-04-03 19:57:08,726 | Worker 373 started
+2026-04-03 19:57:08,727 | Worker 373 stopped
+2026-04-03 19:57:08,727 | Worker 374 started
+2026-04-03 19:57:08,727 | Worker 374 stopped
+2026-04-03 19:57:08,727 | Worker 375 started
+2026-04-03 19:57:08,727 | Worker 375 stopped
+2026-04-03 19:57:08,727 | Worker 376 started
+2026-04-03 19:57:08,728 | Worker 376 stopped
+2026-04-03 19:57:08,728 | Worker 377 started
+2026-04-03 19:57:08,728 | Worker 377 stopped
+2026-04-03 19:57:08,728 | Worker 378 started
+2026-04-03 19:57:08,728 | Worker 378 stopped
+2026-04-03 19:57:08,729 | Worker 379 started
+2026-04-03 19:57:08,729 | Worker 379 stopped
+2026-04-03 19:57:08,729 | Worker 380 started
+2026-04-03 19:57:08,729 | Worker 380 stopped
+2026-04-03 19:57:08,729 | Added 10 worker(s) — total 380
+2026-04-03 19:57:08,984 | Worker 381 started
+2026-04-03 19:57:08,984 | Worker 381 stopped
+2026-04-03 19:57:08,984 | Worker 382 started
+2026-04-03 19:57:08,986 | Worker 382 stopped
+2026-04-03 19:57:08,986 | Worker 383 started
+2026-04-03 19:57:08,986 | Worker 383 stopped
+2026-04-03 19:57:08,986 | Worker 384 started
+2026-04-03 19:57:08,987 | Worker 384 stopped
+2026-04-03 19:57:08,987 | Worker 385 started
+2026-04-03 19:57:08,987 | Worker 385 stopped
+2026-04-03 19:57:08,987 | Worker 386 started
+2026-04-03 19:57:08,987 | Worker 386 stopped
+2026-04-03 19:57:08,987 | Worker 387 started
+2026-04-03 19:57:08,987 | Worker 387 stopped
+2026-04-03 19:57:08,988 | Worker 388 started
+2026-04-03 19:57:08,988 | Worker 388 stopped
+2026-04-03 19:57:08,988 | Worker 389 started
+2026-04-03 19:57:08,988 | Worker 389 stopped
+2026-04-03 19:57:08,989 | Worker 390 started
+2026-04-03 19:57:08,989 | Worker 390 stopped
+2026-04-03 19:57:08,989 | Added 10 worker(s) — total 390
