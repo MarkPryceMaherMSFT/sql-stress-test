@@ -16,6 +16,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 from auth import EntraAuthProvider
 from engine import StressEngine
+from fabric import FabricClient
 
 
 class App:
@@ -25,7 +26,7 @@ class App:
         root.geometry("1350x960")
         root.minsize(1050, 750)
 
-        self.servers: list[tuple[str, str]] = []
+        self.servers: list[dict] = []  # each: {server, database, workspace, item_name, item_type, enabled}
         self.engine: StressEngine | None = None
         self.log_queue: queue.Queue[str] = queue.Queue()
         self.running = False
@@ -86,23 +87,13 @@ class App:
         row.pack(fill=tk.X, pady=(0, 4))
 
         # ── Server list ──
-        sf = ttk.LabelFrame(row, text=" SQL Servers ", padding=6)
+        sf = ttk.LabelFrame(row, text=" Fabric Endpoints ", padding=6)
         sf.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=(0, 4))
 
-        entry_r = ttk.Frame(sf)
-        entry_r.pack(fill=tk.X)
-        ttk.Label(entry_r, text="Server:").pack(side=tk.LEFT)
-        self.server_var = tk.StringVar()
-        ttk.Entry(entry_r, textvariable=self.server_var, width=30).pack(
+        btn_r = ttk.Frame(sf)
+        btn_r.pack(fill=tk.X)
+        ttk.Button(btn_r, text="Add Server…", command=self._open_add_server_dialog).pack(
             side=tk.LEFT, padx=2
-        )
-        ttk.Label(entry_r, text="Database:").pack(side=tk.LEFT, padx=(10, 0))
-        self.db_var = tk.StringVar()
-        ttk.Entry(entry_r, textvariable=self.db_var, width=20).pack(
-            side=tk.LEFT, padx=2
-        )
-        ttk.Button(entry_r, text="Add Server", command=self._add_server).pack(
-            side=tk.LEFT, padx=6
         )
 
         list_r = ttk.Frame(sf)
@@ -113,8 +104,16 @@ class App:
         sb.pack(side=tk.RIGHT, fill=tk.Y)
         self.server_listbox.config(yscrollcommand=sb.set)
 
-        ttk.Button(sf, text="Remove Selected", command=self._remove_server).pack(
-            anchor=tk.W
+        btn_r2 = ttk.Frame(sf)
+        btn_r2.pack(fill=tk.X)
+        ttk.Button(btn_r2, text="Remove Selected", command=self._remove_server).pack(
+            side=tk.LEFT, padx=2
+        )
+        ttk.Button(btn_r2, text="Toggle Selected", command=self._toggle_selected_server).pack(
+            side=tk.LEFT, padx=2
+        )
+        ttk.Button(btn_r2, text="Toggle All", command=self._toggle_all_servers).pack(
+            side=tk.LEFT, padx=2
         )
 
         # ── Auth ──
@@ -168,10 +167,15 @@ class App:
 
         r2 = ttk.Frame(cf)
         r2.pack(fill=tk.X, pady=2)
-        ttk.Label(r2, text="Delay (ms):").pack(side=tk.LEFT)
-        self.delay_var = tk.IntVar(value=0)
+        ttk.Label(r2, text="Delay Min (ms):").pack(side=tk.LEFT)
+        self.delay_min_var = tk.IntVar(value=200)
         ttk.Spinbox(
-            r2, from_=0, to=60000, textvariable=self.delay_var, width=7
+            r2, from_=0, to=60000, textvariable=self.delay_min_var, width=7
+        ).pack(side=tk.LEFT, padx=4)
+        ttk.Label(r2, text="Max:").pack(side=tk.LEFT, padx=(6, 0))
+        self.delay_max_var = tk.IntVar(value=1000)
+        ttk.Spinbox(
+            r2, from_=0, to=60000, textvariable=self.delay_max_var, width=7
         ).pack(side=tk.LEFT, padx=4)
 
         btn_r = ttk.Frame(cf)
@@ -280,22 +284,43 @@ class App:
 
     def _gather_settings(self) -> dict:
         return {
-            "servers": self.servers,
+            "servers": [{"server": s["server"], "database": s["database"],
+                         "workspace": s["workspace"], "item_name": s["item_name"],
+                         "item_type": s["item_type"], "enabled": s["enabled"]}
+                        for s in self.servers],
             "tenant_id": self.tenant_var.get(),
             "client_id": self.client_id_var.get(),
             "client_secret": self.client_secret_var.get(),
             "query": self.query_text.get("1.0", tk.END).strip(),
             "workers": self.workers_var.get(),
-            "delay_ms": self.delay_var.get(),
+            "delay_min_ms": self.delay_min_var.get(),
+            "delay_max_ms": self.delay_max_var.get(),
         }
 
     def _apply_settings(self, data: dict):
         # servers
         self.servers.clear()
         self.server_listbox.delete(0, tk.END)
-        for s, d in data.get("servers", []):
-            self.servers.append((s, d))
-            self.server_listbox.insert(tk.END, f"{s}  /  {d}")
+        for entry in data.get("servers", []):
+            if isinstance(entry, dict):
+                rec = {"server": entry["server"], "database": entry["database"],
+                       "workspace": entry.get("workspace", ""),
+                       "item_name": entry.get("item_name", ""),
+                       "item_type": entry.get("item_type", ""),
+                       "enabled": entry.get("enabled", True)}
+            elif len(entry) == 5:
+                rec = {"server": entry[0], "database": entry[1],
+                       "workspace": entry[2], "item_name": entry[3],
+                       "item_type": entry[4], "enabled": True}
+            elif len(entry) == 2:
+                rec = {"server": entry[0], "database": entry[1],
+                       "workspace": "", "item_name": "",
+                       "item_type": "", "enabled": True}
+            else:
+                continue
+            self.servers.append(rec)
+            self.server_listbox.insert(tk.END, self._server_display(rec))
+            self._color_listbox_row(len(self.servers) - 1)
 
         # auth
         self.tenant_var.set(data.get("tenant_id", ""))
@@ -308,7 +333,8 @@ class App:
 
         # controls
         self.workers_var.set(data.get("workers", 10))
-        self.delay_var.set(data.get("delay_ms", 0))
+        self.delay_min_var.set(data.get("delay_min_ms", 200))
+        self.delay_max_var.set(data.get("delay_max_ms", 1000))
 
     def _save_settings(self):
         path = filedialog.asksaveasfilename(
@@ -342,16 +368,136 @@ class App:
 
     # ── server management ────────────────────────────────────
 
-    def _add_server(self):
-        s = self.server_var.get().strip()
-        d = self.db_var.get().strip()
-        if not s or not d:
-            messagebox.showwarning("Input Required", "Enter both Server and Database.")
+    def _open_add_server_dialog(self):
+        """Open a dialog to add a Fabric warehouse or lakehouse endpoint."""
+        dlg = tk.Toplevel(self.root)
+        dlg.title("Add Fabric Endpoint")
+        dlg.geometry("480x260")
+        dlg.resizable(False, False)
+        dlg.transient(self.root)
+        dlg.grab_set()
+
+        frm = ttk.Frame(dlg, padding=16)
+        frm.pack(fill=tk.BOTH, expand=True)
+
+        ttk.Label(frm, text="Workspace Name:").grid(row=0, column=0, sticky=tk.W, pady=4)
+        ws_var = tk.StringVar()
+        ttk.Entry(frm, textvariable=ws_var, width=40).grid(row=0, column=1, padx=4, pady=4)
+
+        ttk.Label(frm, text="Warehouse / Lakehouse:").grid(row=1, column=0, sticky=tk.W, pady=4)
+        item_var = tk.StringVar()
+        ttk.Entry(frm, textvariable=item_var, width=40).grid(row=1, column=1, padx=4, pady=4)
+
+        status_var = tk.StringVar(value="Enter names and click Validate.")
+        status_lbl = ttk.Label(frm, textvariable=status_var, wraplength=420,
+                               style="Status.TLabel")
+        status_lbl.grid(row=2, column=0, columnspan=2, sticky=tk.W, pady=(8, 4))
+
+        # Resolved result stored here by the background thread
+        resolved = {}
+
+        def do_validate():
+            ws = ws_var.get().strip()
+            item = item_var.get().strip()
+            if not ws or not item:
+                status_var.set("Please fill in both fields.")
+                return
+
+            tenant = self.tenant_var.get().strip()
+            client_id = self.client_id_var.get().strip()
+            secret = self.client_secret_var.get().strip()
+            if not all([tenant, client_id, secret]):
+                status_var.set("Configure Entra ID credentials first.")
+                return
+
+            validate_btn.config(state=tk.DISABLED)
+            ok_btn.config(state=tk.DISABLED)
+            status_var.set("Validating… (trying Warehouse, then Lakehouse)")
+
+            def run():
+                try:
+                    client = FabricClient(tenant, client_id, secret)
+                    server, database, item_type = client.resolve(ws, item)
+                    resolved["server"] = server
+                    resolved["database"] = database
+                    resolved["item_type"] = item_type
+                    resolved["workspace"] = ws
+                    resolved["item_name"] = item
+                    msg = (
+                        f"Found {item_type}: {server}\n"
+                        f"Database: {database}"
+                    )
+                    dlg.after(0, lambda: status_var.set(msg))
+                    dlg.after(0, lambda: ok_btn.config(state=tk.NORMAL))
+                except Exception as exc:
+                    err = str(exc)
+                    dlg.after(0, lambda: status_var.set(f"Error: {err}"))
+                finally:
+                    dlg.after(0, lambda: validate_btn.config(state=tk.NORMAL))
+
+            threading.Thread(target=run, daemon=True).start()
+
+        def do_ok():
+            if not resolved:
+                return
+            rec = {
+                "server": resolved["server"],
+                "database": resolved["database"],
+                "workspace": resolved["workspace"],
+                "item_name": resolved["item_name"],
+                "item_type": resolved["item_type"],
+                "enabled": True,
+            }
+            self.servers.append(rec)
+            self.server_listbox.insert(tk.END, self._server_display(rec))
+            self._color_listbox_row(len(self.servers) - 1)
+            dlg.destroy()
+
+        btn_row = ttk.Frame(frm)
+        btn_row.grid(row=3, column=0, columnspan=2, pady=(12, 0))
+        validate_btn = ttk.Button(btn_row, text="Validate", command=do_validate)
+        validate_btn.pack(side=tk.LEFT, padx=4)
+        ok_btn = ttk.Button(btn_row, text="OK", command=do_ok, state=tk.DISABLED)
+        ok_btn.pack(side=tk.LEFT, padx=4)
+        ttk.Button(btn_row, text="Cancel", command=dlg.destroy).pack(side=tk.LEFT, padx=4)
+
+    @staticmethod
+    def _server_display(rec: dict) -> str:
+        prefix = "" if rec["enabled"] else "[DISABLED]  "
+        ws = rec["workspace"]
+        item = rec["item_name"]
+        itype = rec["item_type"]
+        if ws and item:
+            return f"{prefix}{ws}  /  {item}  ({itype})"
+        return f'{prefix}{rec["server"]}  /  {rec["database"]}'
+
+    def _color_listbox_row(self, idx: int):
+        color = "#000000" if self.servers[idx]["enabled"] else "#999999"
+        self.server_listbox.itemconfig(idx, fg=color)
+
+    def _refresh_server_listbox(self):
+        self.server_listbox.delete(0, tk.END)
+        for i, rec in enumerate(self.servers):
+            self.server_listbox.insert(tk.END, self._server_display(rec))
+            self._color_listbox_row(i)
+
+    def _toggle_selected_server(self):
+        sel = self.server_listbox.curselection()
+        if not sel:
             return
-        self.servers.append((s, d))
-        self.server_listbox.insert(tk.END, f"{s}  /  {d}")
-        self.server_var.set("")
-        self.db_var.set("")
+        idx = sel[0]
+        self.servers[idx]["enabled"] = not self.servers[idx]["enabled"]
+        self.server_listbox.delete(idx)
+        self.server_listbox.insert(idx, self._server_display(self.servers[idx]))
+        self._color_listbox_row(idx)
+        self.server_listbox.selection_set(idx)
+
+    def _toggle_all_servers(self):
+        # If any are enabled, disable all; otherwise enable all
+        any_enabled = any(s["enabled"] for s in self.servers)
+        for s in self.servers:
+            s["enabled"] = not any_enabled
+        self._refresh_server_listbox()
 
     def _remove_server(self):
         sel = self.server_listbox.curselection()
@@ -377,8 +523,9 @@ class App:
                     0, lambda: messagebox.showinfo("Success", "Token acquired successfully.")
                 )
             except Exception as exc:
+                msg = str(exc)
                 self.root.after(
-                    0, lambda: messagebox.showerror("Auth Failed", str(exc))
+                    0, lambda: messagebox.showerror("Auth Failed", msg)
                 )
 
         threading.Thread(target=run, daemon=True).start()
@@ -387,8 +534,9 @@ class App:
 
     def _start_test(self):
         # validation
-        if not self.servers:
-            messagebox.showwarning("Servers", "Add at least one SQL Server.")
+        enabled_servers = [s for s in self.servers if s["enabled"]]
+        if not enabled_servers:
+            messagebox.showwarning("Servers", "Enable at least one server.")
             return
         tenant = self.tenant_var.get().strip()
         client_id = self.client_id_var.get().strip()
@@ -405,7 +553,7 @@ class App:
         if not messagebox.askyesno(
             "Confirm",
             f"Launch {workers} concurrent worker(s) against "
-            f"{len(self.servers)} server(s)?\n\n"
+            f"{len(enabled_servers)} server(s)?\n\n"
             "This will generate significant load on the target server(s).",
         ):
             return
@@ -421,14 +569,25 @@ class App:
             self.log_queue.put(msg)
 
         self.chart_data = self._empty_chart_data()
-        delay = self.delay_var.get() / 1000.0
+        delay_min = self.delay_min_var.get() / 1000.0
+        delay_max = self.delay_max_var.get() / 1000.0
+        if delay_min > delay_max:
+            delay_min, delay_max = delay_max, delay_min
+
+        # Extract (server, database, display_name) tuples for enabled servers
+        engine_servers = [
+            (s["server"], s["database"],
+             f"{s['workspace']} / {s['item_name']}" if s.get("workspace") else f"{s['server']} / {s['database']}")
+            for s in enabled_servers
+        ]
 
         self.engine = StressEngine(
-            servers=self.servers.copy(),
+            servers=engine_servers,
             auth_provider=auth,
             query=sql,
             on_log=on_log,
-            delay=delay,
+            delay_min=delay_min,
+            delay_max=delay_max,
         )
         self.engine.start(workers)
         self.running = True

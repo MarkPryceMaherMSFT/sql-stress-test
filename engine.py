@@ -1,6 +1,7 @@
 """Stress-test engine with round-robin server distribution and live metrics."""
 
 import itertools
+import random
 import struct
 import threading
 import time
@@ -71,11 +72,13 @@ class Metrics:
 class StressEngine:
     """Spawns concurrent workers that execute SQL queries in round-robin."""
 
-    def __init__(self, servers, auth_provider, query, on_log=None, delay=0.0):
-        self.servers = list(servers)        # [(server, database), ...]
+    def __init__(self, servers, auth_provider, query, on_log=None,
+                 delay_min=0.2, delay_max=1.0):
+        self.servers = list(servers)        # [(server, database, display_name), ...]
         self.auth = auth_provider
         self.query = query
-        self.delay = delay                       # seconds between iterations
+        self.delay_min = delay_min               # seconds, lower bound
+        self.delay_max = delay_max               # seconds, upper bound
         self._on_log = on_log or (lambda _: None)
         self.running = False
         self.metrics = Metrics()
@@ -104,12 +107,15 @@ class StressEngine:
             attrs_before={SQL_COPT_SS_ACCESS_TOKEN: self._token_struct(token)},
         )
 
-    def _worker(self, wid: int):
+    def _worker(self, wid: int, ramp_delay: float = 0.0):
+        # stagger the initial start so load ramps up gradually
+        if ramp_delay > 0:
+            time.sleep(ramp_delay)
         self.metrics.inc_workers()
         self._on_log(f"Worker {wid} started")
         try:
             while self.running:
-                server, database = self._next_server()
+                server, database, display_name = self._next_server()
                 try:
                     conn = self._connect(server, database)
                     try:
@@ -121,17 +127,17 @@ class StressEngine:
                         conn.close()
                     self.metrics.record_success()
                     self._on_log(
-                        f"Worker {wid} | {server}/{database} | OK | {len(rows)} rows"
+                        f"Worker {wid} | {display_name} | OK | {len(rows)} rows"
                     )
                 except Exception as exc:
                     self.metrics.record_error(str(exc))
                     self._on_log(
-                        f"Worker {wid} | {server}/{database} | ERROR | {exc}"
+                        f"Worker {wid} | {display_name} | ERROR | {exc}"
                     )
                     time.sleep(0.1)  # back off briefly on error
 
-                if self.delay > 0:
-                    time.sleep(self.delay)
+                if self.delay_max > 0:
+                    time.sleep(random.uniform(self.delay_min, self.delay_max))
         finally:
             self.metrics.dec_workers()
             self._on_log(f"Worker {wid} stopped")
@@ -146,7 +152,8 @@ class StressEngine:
         self._counter = itertools.count()
 
         for i in range(num_workers):
-            t = threading.Thread(target=self._worker, args=(i + 1,), daemon=True)
+            ramp = i * random.uniform(self.delay_min, self.delay_max)
+            t = threading.Thread(target=self._worker, args=(i + 1, ramp), daemon=True)
             t.start()
             self._threads.append(t)
         self._on_log(

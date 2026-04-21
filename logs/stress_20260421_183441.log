@@ -1,0 +1,299 @@
+2026-04-21 18:36:23,569 | Worker 1 started
+2026-04-21 18:36:23,584 | Started 35 worker(s) across 1 server(s)
+2026-04-21 18:36:24,027 | Worker 2 started
+2026-04-21 18:36:24,242 | Worker 3 started
+2026-04-21 18:36:24,405 | Worker 4 started
+2026-04-21 18:36:24,983 | Worker 6 started
+2026-04-21 18:36:25,078 | Worker 5 started
+2026-04-21 18:36:25,492 | Worker 7 started
+2026-04-21 18:36:26,075 | Worker 9 started
+2026-04-21 18:36:26,321 | Worker 8 started
+2026-04-21 18:36:26,651 | Worker 12 started
+2026-04-21 18:36:27,244 | Worker 11 started
+2026-04-21 18:36:27,639 | Worker 10 started
+2026-04-21 18:36:28,012 | Worker 15 started
+2026-04-21 18:36:28,142 | Worker 19 started
+2026-04-21 18:36:28,150 | Worker 13 started
+2026-04-21 18:36:28,449 | Worker 22 started
+2026-04-21 18:36:28,478 | Worker 16 started
+2026-04-21 18:36:28,694 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:29,321 | Worker 26 started
+2026-04-21 18:36:29,321 | Worker 17 started
+2026-04-21 18:36:29,382 | Worker 14 started
+2026-04-21 18:36:29,746 | Worker 24 started
+2026-04-21 18:36:30,489 | Worker 18 started
+2026-04-21 18:36:30,619 | Worker 31 started
+2026-04-21 18:36:30,650 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:30,711 | Worker 30 started
+2026-04-21 18:36:31,793 | Worker 21 started
+2026-04-21 18:36:32,230 | Worker 28 started
+2026-04-21 18:36:32,414 | Worker 20 started
+2026-04-21 18:36:32,703 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:33,151 | Worker 35 started
+2026-04-21 18:36:34,307 | Worker 23 started
+2026-04-21 18:36:34,680 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:34,689 | Worker 25 started
+2026-04-21 18:36:34,703 | Worker 27 started
+2026-04-21 18:36:36,601 | Worker 33 started
+2026-04-21 18:36:36,735 | Worker 29 started
+2026-04-21 18:36:38,394 | Worker 32 started
+2026-04-21 18:36:39,216 | Worker 34 started
+2026-04-21 18:36:40,105 | Worker 7 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:41,853 | Worker 11 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:43,659 | Worker 9 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:45,385 | Worker 6 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:47,142 | Worker 12 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:48,874 | Worker 5 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:50,628 | Worker 22 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:52,459 | Worker 13 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:54,119 | Worker 15 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:55,848 | Worker 10 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:57,594 | Worker 16 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:36:59,319 | Worker 31 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:01,063 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:02,807 | Worker 8 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:04,519 | Worker 14 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:06,254 | Worker 18 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:07,989 | Worker 19 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:09,715 | Worker 21 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:11,442 | Worker 17 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:13,194 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:15,012 | Worker 28 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:16,777 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:18,385 | Worker 35 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:20,109 | Worker 24 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:21,881 | Worker 25 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:23,620 | Worker 30 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:25,339 | Worker 26 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:27,050 | Worker 20 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:28,783 | Worker 27 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:30,607 | Worker 23 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:32,330 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:39,587 | Worker 34 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:41,316 | Worker 33 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:43,055 | Worker 29 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:44,777 | Worker 32 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:46,503 | Worker 17 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:48,231 | Worker 23 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:49,958 | Worker 21 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:51,685 | Worker 10 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:53,414 | Worker 5 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:55,142 | Worker 16 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:56,877 | Worker 15 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:37:58,611 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:00,351 | Worker 31 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:02,069 | Worker 9 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:03,819 | Worker 13 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:05,535 | Worker 30 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:07,245 | Worker 6 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:09,001 | Worker 25 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:10,729 | Worker 7 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:12,488 | Worker 22 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:14,224 | Worker 19 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:15,959 | Worker 18 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:17,716 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:19,411 | Worker 20 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:21,112 | Worker 27 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:22,849 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:24,576 | Worker 24 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:26,293 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:28,004 | Worker 26 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:29,159 | Stopping all workers …
+2026-04-21 18:38:29,732 | Worker 12 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:29,984 | Worker 12 stopped
+2026-04-21 18:38:31,434 | Worker 28 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:31,687 | Worker 28 stopped
+2026-04-21 18:38:33,164 | Worker 35 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:33,518 | Worker 35 stopped
+2026-04-21 18:38:34,870 | Worker 8 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:35,267 | Worker 8 stopped
+2026-04-21 18:38:36,588 | Worker 11 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:36,863 | Worker 11 stopped
+2026-04-21 18:38:38,368 | Worker 14 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:38,684 | Worker 14 stopped
+2026-04-21 18:38:44,027 | Worker 24 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:44,488 | Worker 24 stopped
+2026-04-21 18:38:45,761 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:46,229 | Worker 4 stopped
+2026-04-21 18:38:47,497 | Worker 26 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:47,737 | Worker 26 stopped
+2026-04-21 18:38:49,227 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:49,495 | Worker 3 stopped
+2026-04-21 18:38:50,954 | Worker 17 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:51,403 | Worker 17 stopped
+2026-04-21 18:38:52,684 | Worker 27 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:53,118 | Worker 27 stopped
+2026-04-21 18:38:54,400 | Worker 22 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:54,784 | Worker 22 stopped
+2026-04-21 18:38:56,133 | Worker 18 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:56,437 | Worker 18 stopped
+2026-04-21 18:38:57,853 | Worker 32 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:58,289 | Worker 32 stopped
+2026-04-21 18:38:59,594 | Worker 25 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:38:59,897 | Worker 25 stopped
+2026-04-21 18:39:01,309 | Worker 30 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:01,552 | Worker 30 stopped
+2026-04-21 18:39:03,052 | Worker 13 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:03,412 | Worker 13 stopped
+2026-04-21 18:39:04,774 | Worker 7 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:04,996 | Worker 7 stopped
+2026-04-21 18:39:06,504 | Worker 9 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:06,754 | Worker 9 stopped
+2026-04-21 18:39:08,252 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:08,733 | Worker 1 stopped
+2026-04-21 18:39:09,973 | Worker 19 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:10,175 | Worker 19 stopped
+2026-04-21 18:39:11,711 | Worker 15 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:11,925 | Worker 15 stopped
+2026-04-21 18:39:13,450 | Worker 16 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:13,722 | Worker 16 stopped
+2026-04-21 18:39:15,149 | Worker 31 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:15,358 | Worker 31 stopped
+2026-04-21 18:39:16,897 | Worker 5 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:17,350 | Worker 5 stopped
+2026-04-21 18:39:18,621 | Worker 6 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:19,063 | Worker 6 stopped
+2026-04-21 18:39:20,364 | Worker 21 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:20,765 | Worker 21 stopped
+2026-04-21 18:39:22,076 | Worker 20 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:22,574 | Worker 20 stopped
+2026-04-21 18:39:23,817 | Worker 10 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:24,187 | Worker 10 stopped
+2026-04-21 18:39:27,329 | Worker 29 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:27,542 | Worker 29 stopped
+2026-04-21 18:39:27,579 | Worker 23 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:28,055 | Worker 23 stopped
+2026-04-21 18:39:29,328 | Worker 33 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:29,663 | Worker 33 stopped
+2026-04-21 18:39:31,067 | Worker 34 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:31,322 | Worker 34 stopped
+2026-04-21 18:39:31,322 | All workers stopped
+2026-04-21 18:39:32,784 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:39:33,141 | Worker 2 stopped
+2026-04-21 18:43:44,095 | Worker 1 started
+2026-04-21 18:43:44,095 | Started 1 worker(s) across 2 server(s)
+2026-04-21 18:43:47,345 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:06,124 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:44:06,666 | Stopping all workers …
+2026-04-21 18:44:09,185 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:09,446 | Worker 1 stopped
+2026-04-21 18:44:09,446 | All workers stopped
+2026-04-21 18:44:14,966 | Worker 1 started
+2026-04-21 18:44:14,967 | Started 2 worker(s) across 2 server(s)
+2026-04-21 18:44:15,210 | Worker 2 started
+2026-04-21 18:44:17,697 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:19,523 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:44:20,675 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:23,632 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:23,823 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:44:24,267 | Stopping all workers …
+2026-04-21 18:44:26,796 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:44:27,057 | Worker 2 stopped
+2026-04-21 18:44:27,834 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:44:28,197 | Worker 1 stopped
+2026-04-21 18:44:28,199 | All workers stopped
+2026-04-21 18:58:36,560 | Worker 1 started
+2026-04-21 18:58:36,568 | Started 35 worker(s) across 23 server(s)
+2026-04-21 18:58:36,799 | Worker 2 started
+2026-04-21 18:58:37,257 | Worker 3 started
+2026-04-21 18:58:37,971 | Worker 4 started
+2026-04-21 18:58:38,344 | Worker 5 started
+2026-04-21 18:58:38,453 | Worker 6 started
+2026-04-21 18:58:38,480 | Worker 8 started
+2026-04-21 18:58:38,561 | Worker 7 started
+2026-04-21 18:58:38,636 | Worker 10 started
+2026-04-21 18:58:39,224 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:58:39,294 | Worker 14 started
+2026-04-21 18:58:39,821 | Worker 9 started
+2026-04-21 18:58:39,938 | Worker 12 started
+2026-04-21 18:58:39,942 | Worker 16 started
+2026-04-21 18:58:40,832 | Worker 21 started
+2026-04-21 18:58:41,082 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:41,094 | Worker 22 started
+2026-04-21 18:58:41,190 | Worker 11 started
+2026-04-21 18:58:41,385 | Worker 13 started
+2026-04-21 18:58:42,965 | Worker 18 started
+2026-04-21 18:58:43,381 | Worker 15 started
+2026-04-21 18:58:43,533 | Worker 30 started
+2026-04-21 18:58:43,614 | Worker 17 started
+2026-04-21 18:58:44,266 | Worker 28 started
+2026-04-21 18:58:44,393 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-xzgln4yrouvenmdz4odcru52ca.datawarehouse.fabric.microsoft.com/lhscale1 | ERROR | ('42S02', "[42S02] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'dbo.big_query2'. (208) (SQLExecDirectW)")
+2026-04-21 18:58:44,456 | Worker 19 started
+2026-04-21 18:58:44,519 | Worker 25 started
+2026-04-21 18:58:44,557 | Worker 27 started
+2026-04-21 18:58:44,676 | Worker 31 started
+2026-04-21 18:58:44,799 | Worker 20 started
+2026-04-21 18:58:44,859 | Worker 23 started
+2026-04-21 18:58:45,071 | Worker 32 started
+2026-04-21 18:58:45,449 | Stopping all workers …
+2026-04-21 18:58:46,016 | Worker 18 | ogtvwhepx54elphebnlwohs3oq-3wf6m5xzjrsejhvnts5tgo25uq.datawarehouse.fabric.microsoft.com/lhscale1 | ERROR | ('42S02', "[42S02] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'dbo.big_query2'. (208) (SQLExecDirectW)")
+2026-04-21 18:58:46,472 | Worker 28 | ogtvwhepx54elphebnlwohs3oq-a3mjxokpkjpu7mqvdsn2nkkadu.datawarehouse.fabric.microsoft.com/busydw | OK | 1 rows
+2026-04-21 18:58:46,515 | Worker 18 stopped
+2026-04-21 18:58:46,933 | Worker 28 stopped
+2026-04-21 18:58:47,179 | Worker 24 started
+2026-04-21 18:58:47,179 | Worker 24 stopped
+2026-04-21 18:58:47,243 | Worker 29 started
+2026-04-21 18:58:47,243 | Worker 29 stopped
+2026-04-21 18:58:48,068 | Worker 17 | ogtvwhepx54elphebnlwohs3oq-jvj4nkofwovuplyoszoaiqtqdq.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:48,378 | Worker 17 stopped
+2026-04-21 18:58:48,514 | Worker 33 started
+2026-04-21 18:58:48,514 | Worker 33 stopped
+2026-04-21 18:58:48,605 | Worker 19 | ogtvwhepx54elphebnlwohs3oq-few4ztegknbedkieovcthtnfku.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:48,860 | Worker 19 stopped
+2026-04-21 18:58:48,938 | Worker 26 started
+2026-04-21 18:58:48,938 | Worker 26 stopped
+2026-04-21 18:58:49,430 | Worker 35 started
+2026-04-21 18:58:49,430 | Worker 35 stopped
+2026-04-21 18:58:49,713 | Worker 34 started
+2026-04-21 18:58:49,713 | Worker 34 stopped
+2026-04-21 18:58:51,742 | Worker 3 | ogtvwhepx54elphebnlwohs3oq-ayjca65whrle5ktgd3jbfpjea4.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:52,189 | Worker 3 stopped
+2026-04-21 18:58:53,053 | Worker 4 | ogtvwhepx54elphebnlwohs3oq-h45bu5gedgzelnxgobsmqp4cty.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:53,336 | Worker 7 | ogtvwhepx54elphebnlwohs3oq-bfq4nk2tuuiuvhguhj6cavur2u.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:53,451 | Worker 4 stopped
+2026-04-21 18:58:53,636 | Worker 7 stopped
+2026-04-21 18:58:53,866 | Worker 31 | ogtvwhepx54elphebnlwohs3oq-3hrnoxag3xeeplc3c2hgzqlvrm.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:54,027 | Worker 8 | ogtvwhepx54elphebnlwohs3oq-zmefybihuneunmqejdz63egdti.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:54,089 | Worker 31 stopped
+2026-04-21 18:58:54,360 | Worker 8 stopped
+2026-04-21 18:58:54,415 | Worker 12 | ogtvwhepx54elphebnlwohs3oq-slzw7zqyvicedaa563y2ykhkai.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:54,641 | Worker 25 | ogtvwhepx54elphebnlwohs3oq-ayjca65whrle5ktgd3jbfpjea4.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:54,764 | Worker 12 stopped
+2026-04-21 18:58:54,889 | Worker 25 stopped
+2026-04-21 18:58:54,982 | Worker 16 | ogtvwhepx54elphebnlwohs3oq-7u2jwb6thetu7onkrpsczbavcm.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:55,360 | Worker 16 stopped
+2026-04-21 18:58:55,472 | Worker 22 | ogtvwhepx54elphebnlwohs3oq-oef2f5jzcdlevkioe65z2t2nai.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:55,884 | Worker 27 | ogtvwhepx54elphebnlwohs3oq-h45bu5gedgzelnxgobsmqp4cty.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:55,932 | Worker 22 stopped
+2026-04-21 18:58:56,098 | Worker 11 | ogtvwhepx54elphebnlwohs3oq-qxrehej4jzcedp6ddbcedj5gmy.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,107 | Worker 2 | ogtvwhepx54elphebnlwohs3oq-bfq4nk2tuuiuvhguhj6cavur2u.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,244 | Worker 13 | ogtvwhepx54elphebnlwohs3oq-jttyoehqvgeujftdcx3xreg22u.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,353 | Worker 27 stopped
+2026-04-21 18:58:56,401 | Worker 11 stopped
+2026-04-21 18:58:56,556 | Worker 5 | ogtvwhepx54elphebnlwohs3oq-3hrnoxag3xeeplc3c2hgzqlvrm.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,583 | Worker 2 stopped
+2026-04-21 18:58:56,676 | Worker 13 stopped
+2026-04-21 18:58:56,680 | Worker 23 | ogtvwhepx54elphebnlwohs3oq-zmefybihuneunmqejdz63egdti.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,924 | Worker 1 | ogtvwhepx54elphebnlwohs3oq-kjublzotk7qengx566kxgbq2bi.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:56,987 | Worker 23 stopped
+2026-04-21 18:58:57,027 | Worker 5 stopped
+2026-04-21 18:58:57,292 | Worker 1 stopped
+2026-04-21 18:58:59,618 | Worker 20 | ogtvwhepx54elphebnlwohs3oq-wlfg4mdthzlulana32q3j5f6ni.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:59,638 | Worker 30 | ogtvwhepx54elphebnlwohs3oq-7mzzhpirdjyepmfkckivt3epiu.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:59,906 | Worker 10 | ogtvwhepx54elphebnlwohs3oq-52j4uwant7qe3nbpsmkjxjuheq.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:58:59,937 | Worker 30 stopped
+2026-04-21 18:59:00,034 | Worker 20 stopped
+2026-04-21 18:59:00,274 | Worker 21 | ogtvwhepx54elphebnlwohs3oq-syb2pzssqo4efjboto77qb23ky.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:00,316 | Worker 10 stopped
+2026-04-21 18:59:00,472 | Worker 9 | ogtvwhepx54elphebnlwohs3oq-7genvwo47gwu7pstfv2wmym7wi.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:00,773 | Worker 21 stopped
+2026-04-21 18:59:00,798 | Worker 9 stopped
+2026-04-21 18:59:01,399 | Worker 14 | ogtvwhepx54elphebnlwohs3oq-6wggriupukoutijqh6usmr2bru.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:01,799 | Worker 14 stopped
+2026-04-21 18:59:02,487 | Worker 32 | ogtvwhepx54elphebnlwohs3oq-52j4uwant7qe3nbpsmkjxjuheq.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:02,689 | Worker 6 | ogtvwhepx54elphebnlwohs3oq-wlfg4mdthzlulana32q3j5f6ni.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:02,743 | Worker 32 stopped
+2026-04-21 18:59:02,982 | Worker 6 stopped
+2026-04-21 18:59:10,937 | Worker 15 | ogtvwhepx54elphebnlwohs3oq-tubz4x4rvxxexbxouwushjlsoq.datawarehouse.fabric.microsoft.com/lhscale1 | OK | 1 rows
+2026-04-21 18:59:11,163 | Worker 15 stopped
+2026-04-21 18:59:11,163 | All workers stopped
